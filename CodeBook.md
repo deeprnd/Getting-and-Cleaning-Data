@@ -1,5 +1,4 @@
-							Human Activity Recognition Using Smartphones Data Set
-							=====================================================
+#							Human Activity Recognition Using Smartphones Data Set
 
 tBodyAccMeanX
 -------------
@@ -213,8 +212,7 @@ activities
 		STANDING - Standing
 		LAYING - Laying
 
-Preparations:
-=============
+##Preparations:
 
 1. The original data was taken from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. All variables besides ones including mean() and std() name were removed.
