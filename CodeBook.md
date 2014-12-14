@@ -2,14 +2,11 @@
 
 ##Variables key:
 
-tBodyAccMeanX
--------------
+###tBodyAccMeanX
 	Mean of body acceleration mean along axis x
-tBodyAccMeanY
--------------
+###tBodyAccMeanY
 	Mean of body acceleration mean along axis y
-tBodyAccMeanZ
--------------
+###tBodyAccMeanZ
 	Mean of body acceleration mean along axis z
 tBodyAccStdX
 -------------
