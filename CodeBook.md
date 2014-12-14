@@ -1,5 +1,7 @@
 #							Human Activity Recognition Using Smartphones Data Set
 
+##Variables key:
+
 tBodyAccMeanX
 -------------
 	Mean of body acceleration mean along axis x
@@ -215,7 +217,7 @@ activities
 ##Preparations:
 
 1. The original data was taken from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-2. All variables besides ones including mean() and std() name were removed.
+2. All variables besides ones including substring "mean()" and "std()" in their name were removed.
 3. Subjects variables were merged from subject_train.txt and subject_test.txt appropriately
 4. Activities index variable was sustitued with literal values from activity_labels.txt
 5. Variable names were transformed to remove "-" and "()" characters
