@@ -8,200 +8,200 @@
 	Mean of body acceleration mean along axis y
 ###tBodyAccMeanZ
 	Mean of body acceleration mean along axis z
-tBodyAccStdX
--------------
+###tBodyAccStdX
+
 	Mean of body acceleration standart deviation along axis x
-tBodyAccStdY
--------------
+###tBodyAccStdY
+
 	Mean of body acceleration standart deviation along axis y
-tBodyAccStdZ
--------------
+###tBodyAccStdZ
+
 	Mean of body acceleration standart deviation along axis z
-tGravityAccMeanX
--------------
+###tGravityAccMeanX
+
 	Mean of gravity acceleration mean along axis x
-tGravityAccMeanY
--------------
+###tGravityAccMeanY
+
 	Mean of gravity acceleration mean along axis y
-tGravityAccMeanZ
--------------
+###tGravityAccMeanZ
+
 	Mean of gravity acceleration mean along axis z
-tGravityAccStdX
--------------
+###tGravityAccStdX
+
 	Mean of gravity acceleration standart deviation along axis x
-tGravityAccStdY
--------------
+###tGravityAccStdY
+
 	Mean of gravity acceleration standart deviation along axis y
-tGravityAccStdZ
--------------
+###tGravityAccStdZ
+
 	Mean of gravity acceleration standart deviation along axis z
-tBodyAccJerkMeanX
--------------
+###tBodyAccJerkMeanX
+
 	Mean of body jerk acceleration mean along axis x	
-tBodyAccJerkMeanY
--------------
+###tBodyAccJerkMeanY
+
 	Mean of body jerk acceleration mean along axis y
-tBodyAccJerkMeanZ
--------------
+###tBodyAccJerkMeanZ
+
 	Mean of body jerk acceleration mean along axis z
-tBodyAccJerkStdX
--------------
+###tBodyAccJerkStdX
+
 	Mean of body jerk acceleration standart deviation along axis x
-tBodyAccJerkStdY
--------------
+###tBodyAccJerkStdY
+
 	Mean of body jerk acceleration standart deviation along axis y
-tBodyAccJerkStdZ
--------------
+###tBodyAccJerkStdZ
+
 	Mean of body jerk acceleration standart deviation along axis z
-tBodyGyroMeanX
--------------
+###tBodyGyroMeanX
+
 	Mean of gyroscope acceleration mean along axis x
-tBodyGyroMeanY
--------------
+###tBodyGyroMeanY
+
 	Mean of gyroscope acceleration mean along axis y
-tBodyGyroMeanZ
--------------
+###tBodyGyroMeanZ
+
 	Mean of gyroscope acceleration mean along axis z
-tBodyGyroStdX
--------------
+###tBodyGyroStdX
+
 	Mean of gyroscope acceleration standart deviation along axis x
-tBodyGyroStdY
--------------
+###tBodyGyroStdY
+
 	Mean of gyroscope acceleration standart deviation along axis y
-tBodyGyroStdZ
--------------
+###tBodyGyroStdZ
+
 	Mean of gyroscope acceleration standart deviation along axis z
-tBodyGyroJerkMeanX
--------------
+###tBodyGyroJerkMeanX
+
 	Mean of gyroscope jerk acceleration mean along axis x
-tBodyGyroJerkMeanY
--------------
+###tBodyGyroJerkMeanY
+
 	Mean of gyroscope jerk acceleration mean along axis y	
-tBodyGyroJerkMeanZ
--------------
+###tBodyGyroJerkMeanZ
+
 	Mean of gyroscope jerk acceleration mean along axis z
-tBodyGyroJerkStdX
--------------
+###tBodyGyroJerkStdX
+
 	Mean of gyroscope jerk acceleration standart deviation along axis x
-tBodyGyroJerkStdY
--------------
+###tBodyGyroJerkStdY
+
 	Mean of gyroscope jerk acceleration standart deviation along axis y
-tBodyGyroJerkStdZ
--------------
+###tBodyGyroJerkStdZ
+
 	Mean of gyroscope jerk acceleration standart deviation along axis z
-tBodyAccMagMean
--------------
+###tBodyAccMagMean
+
 	Mean of body acceleration magnitude mean
-tBodyAccMagStd
--------------
+###tBodyAccMagStd
+
 	Mean of body acceleration magnitude standart deviation
-tGravityAccMagMean
--------------
+###tGravityAccMagMean
+
 	Mean of gravity acceleration magnitude mean
-tGravityAccMagStd
--------------
+###tGravityAccMagStd
+
 	Mean of gravity acceleration magnitude standart deviation
-tBodyAccJerkMagMean
--------------
+###tBodyAccJerkMagMean
+
 	Mean of body jerk acceleration magnitude mean
-tBodyAccJerkMagStd
--------------
+###tBodyAccJerkMagStd
+
 	Mean of body jerk acceleration magnitude standart deviation
-tBodyGyroMagMean
--------------
+###tBodyGyroMagMean
+
 	Mean of gyroscope acceleration magnitude mean
-tBodyGyroMagStd
--------------
+###tBodyGyroMagStd
+
 	Mean of gyroscope acceleration magnitude standart deviation
-tBodyGyroJerkMagMean
--------------
+###tBodyGyroJerkMagMean
+
 	Mean of gyroscope jerk acceleration magnitude mean
-tBodyGyroJerkMagStd
--------------
+###tBodyGyroJerkMagStd
+
 	Mean of gyroscope jerk acceleration magnitude standart deviation
-fBodyAccMeanX
--------------
+###tBodyAccMeanX
+
 	Mean of Fast Fourier Transform applied on body acceleration mean along axis x
-fBodyAccMeanY
--------------
+###tBodyAccMeanY
+
 	Mean of Fast Fourier Transform applied on body acceleration mean along axis y
-fBodyAccMeanZ
--------------
+###tBodyAccMeanZ
+
 	Mean of Fast Fourier Transform applied on body acceleration mean along axis z
-fBodyAccStdX
--------------
+###tBodyAccStdX
+
 	Mean of Fast Fourier Transform applied on body acceleration standart deviation along axis x
-fBodyAccStdY
--------------
+###tBodyAccStdY
+
 	Mean of Fast Fourier Transform applied on body acceleration standart deviation along axis y
-fBodyAccStdZ
--------------
+###tBodyAccStdZ
+
 	Mean of Fast Fourier Transform applied on body acceleration standart deviation along axis z
-fBodyAccJerkMeanX
-------------------
+###tBodyAccJerkMeanX
+
 	Mean of Fast Fourier Transform applied on body jerk acceleration mean along axis x
-fBodyAccJerkMeanY
-------------------
+###tBodyAccJerkMeanY
+
 	Mean of Fast Fourier Transform applied on body jerk acceleration mean along axis y
-fBodyAccJerkMeanZ
-------------------
+###tBodyAccJerkMeanZ
+
 	Mean of Fast Fourier Transform applied on body jerk acceleration mean along axis z
-fBodyAccJerkStdX
-------------------
+###tBodyAccJerkStdX
+
 	Mean of Fast Fourier Transform applied on body jerk acceleration standart deviation along axis x
-fBodyAccJerkStdY
-------------------
+###tBodyAccJerkStdY
+
 	Mean of Fast Fourier Transform applied on body jerk acceleration standart deviation along axis y
-fBodyAccJerkStdZ
-------------------
+###tBodyAccJerkStdZ
+
 	Mean of Fast Fourier Transform applied on body jerk acceleration standart deviation along axis z
-fBodyGyroMeanX
-------------------
+###tBodyGyroMeanX
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration mean along axis x
-fBodyGyroMeanY
-------------------
+###tBodyGyroMeanY
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration mean along axis y
-fBodyGyroMeanZ
-------------------
+###tBodyGyroMeanZ
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration mean along axis z
-fBodyGyroStdX
-------------------
+###tBodyGyroStdX
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration standart deviation along axis x
-fBodyGyroStdY
-------------------
+###tBodyGyroStdY
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration standart deviation along axis y
-fBodyGyroStdZ
-------------------
+###tBodyGyroStdZ
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration standart deviation along axis z
-fBodyAccMagMean
-------------------
+###tBodyAccMagMean
+
 	Mean of Fast Fourier Transform applied on body acceleration magnitude mean
-fBodyAccMagStd
-------------------
+###tBodyAccMagStd
+
 	Mean of Fast Fourier Transform applied on body acceleration magnitude standart deviation
-fBodyBodyAccJerkMagMean
-------------------------
+###tBodyBodyAccJerkMagMean
+
 	Mean of Fast Fourier Transform applied on body jerk acceleration magnitude mean
-fBodyBodyAccJerkMagStd
-------------------------
+###tBodyBodyAccJerkMagStd
+
 	Mean of Fast Fourier Transform applied on body jerk  acceleration magnitude standart deviation
-fBodyBodyGyroMagMean
-------------------------
+###tBodyBodyGyroMagMean
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration magnitude mean
-fBodyBodyGyroMagStd
-------------------------
+###tBodyBodyGyroMagStd
+
 	Mean of Fast Fourier Transform applied on gyroscope acceleration magnitude standart deviation
-fBodyBodyGyroJerkMagMean
-------------------------
+###tBodyBodyGyroJerkMagMean
+
 	Mean of Fast Fourier Transform applied on gyroscope jerk acceleration magnitude mean
-fBodyBodyGyroJerkMagStd
-------------------------
+###tBodyBodyGyroJerkMagStd
+
 	Mean of Fast Fourier Transform applied on gyroscope jerk acceleration magnitude standart deviation
-subjects
-------------------------
-	Identification number of performing subject [1 - 30]
-activities
-------------------------
+###subjects
+
+	Identification number of performing subject [1  30]
+###activities
+
 	Activities during which the mesuarments were done
 
 		WALKING - Walking
