@@ -1,8 +1,11 @@
-							Human Activity Recognition Using Smartphones Data Set 
+							Human Activity Recognition Using Smartphones Data Set
+							=====================================================
 
 tBodyAccMeanX
+-------------
 	Mean of body acceleration mean along axis x
 tBodyAccMeanY
+-------------
 	Mean of body acceleration mean along axis y
 tBodyAccMeanZ
 	Mean of body acceleration mean along axis z
